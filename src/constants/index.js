@@ -1,5 +1,7 @@
 import project1 from "../assets/projects/project-1.png";
 import project2 from "../assets/projects/project-2.png";
+import project3 from "../assets/projects/project-3.png";
+import project4 from "../assets/projects/project-4.png";
 
 export const HERO_CONTENT = `I am a passionate full stack developer, I thrive on building end-to-end solutions.
   I have honed my skills inmodern front-end technologies like React.js, as well as back-end 
@@ -14,13 +16,13 @@ My journey began with curiosity and a love for problem-solving. I’ve worked on
 I thrive in collaborative environments and enjoy solving complex problems to deliver high-quality solutions. Outside of coding, I enjoy staying active and exploring new technologies.`;
 
 export const EXPERIENCES = [
-  {
-    year: "2023 - present",
-    role: "Full Stack Developer",
-    company: "INFOWEB",
-    description: `Developed and maintained web applications using JavaScript, React.js, WordPress.  Collaborated with the team to deliver high-quality software products on schedule.`,
-    technologies: ["React", "WordPress"],
-  },
+  // {
+  //   year: "2023 - present",
+  //   role: "Full Stack Developer",
+  //   company: "INFOWEB",
+  //   description: `Developed and maintained web applications using JavaScript, React.js, WordPress.  Collaborated with the team to deliver high-quality software products on schedule.`,
+  //   technologies: ["React", "WordPress"],
+  // },
   {
     year: "2022 - 2023",
     role: "Associate Software Engineer",
@@ -45,6 +47,20 @@ export const PROJECTS = [
     description:
       "A personal portfolio website showcasing projects, skills, and contact information.",
     technologies: ["HTML", "React", "Tailwind CSS"],
+  },
+  {
+    title: "Ecommerce Website Backend",
+    image: project3,
+    description:
+      "A fully functional backend of an e-commerce website with features like product adding, updating and deleting. product reviews  and user authentication.",
+    technologies: ["Node", "MongoDB"],
+  },
+  {
+    title: "Computer store Website Backend",
+    image: project4,
+    description:
+      "A fully functional backend of an e-commerce website with features like product adding, updating and deleting product  and user authentication.",
+    technologies: ["Node", "MongoDB"],
   },
 ];
 
