@@ -16,13 +16,13 @@ My journey began with curiosity and a love for problem-solving. I’ve worked on
 I thrive in collaborative environments and enjoy solving complex problems to deliver high-quality solutions. Outside of coding, I enjoy staying active and exploring new technologies.`;
 
 export const EXPERIENCES = [
-  // {
-  //   year: "2023 - present",
-  //   role: "Full Stack Developer",
-  //   company: "INFOWEB",
-  //   description: `Developed and maintained web applications using JavaScript, React.js, WordPress.  Collaborated with the team to deliver high-quality software products on schedule.`,
-  //   technologies: ["React", "WordPress"],
-  // },
+  {
+    year: "2023 - present",
+    role: "Full Stack Developer",
+    company: "INFOWEB",
+    description: `Developed and maintained web applications using JavaScript, React.js, WordPress.  Collaborated with the team to deliver high-quality software products on schedule.`,
+    technologies: ["WordPress"],
+  },
   {
     year: "2022 - 2023",
     role: "Associate Software Engineer",
