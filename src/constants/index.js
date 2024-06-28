@@ -21,7 +21,7 @@ export const EXPERIENCES = [
     role: "Full Stack Developer",
     company: "INFOWEB",
     description: `Developed and maintained web applications using JavaScript, React.js, WordPress.  Collaborated with the team to deliver high-quality software products on schedule.`,
-    technologies: ["WordPress"],
+    technologies: ["Node Js", "Express Js", "React JS", "MongoDB"],
   },
   {
     year: "2022 - 2023",
