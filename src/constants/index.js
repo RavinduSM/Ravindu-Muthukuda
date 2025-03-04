@@ -10,7 +10,7 @@ export const HERO_CONTENT = `I am a passionate full stack developer, I thrive on
   growth and deliver exceptional user experiences.`;
 
 export const ABOUT_TEXT = `I am a dedicated and versatile full stack developer with a passion for creating efficient and user-friendly web applications. 
-I have worked with a variety of technologies, including React, Node.js, MySQL, WordPress and MongoDB. 
+I have worked with a variety of technologies, including React, Node.js, MySQL and MongoDB. 
 My journey began with curiosity and a love for problem-solving. I’ve worked on exciting projects, collaborated with talented teams, and learned from every line of code,
  and it has evolved into a career where I continuously strive to learn and adapt to new challenges. 
 I thrive in collaborative environments and enjoy solving complex problems to deliver high-quality solutions. Outside of coding, I enjoy staying active and exploring new technologies.`;
@@ -20,7 +20,7 @@ export const EXPERIENCES = [
     year: "2023 - present",
     role: "Full Stack Developer",
     company: "INFOWEB",
-    description: `Developed and maintained web applications using JavaScript, React.js, WordPress.  Collaborated with the team to deliver high-quality software products on schedule.`,
+    description: `Developed and maintained web applications using JavaScript, React.js.  Collaborated with the team to deliver high-quality software products on schedule.`,
     technologies: ["Node Js", "Express Js", "React JS", "MongoDB"],
   },
   {

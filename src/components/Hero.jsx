@@ -37,8 +37,7 @@ const Hero = () => {
                 sequence={[
                   "Full stack Developer",
                   1000,
-                  "WordPress Developer",
-                  1000,
+                  
                 ]}
                 wrapper="span"
                 speed={50}
